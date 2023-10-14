@@ -1,0 +1,23 @@
+.color-picker-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .color-list {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .color-item {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .selected-color {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
